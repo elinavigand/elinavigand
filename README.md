@@ -1,5 +1,7 @@
 ### Hi there 👋 My name is Elina Vigand
 
+- 🔭 Marketing and Customer Analytics Project Manager with 10+ years of experience in B2B SaaS marketing.
+- 🏋️ Passionate about harnessing the power of data to drive strategic marketing decisions and enhance customer experiences. 
 - 🌱 I’m currently enrolled in Data Science bootcamp with Constructor Academy, where we will cover:
   * Python, Web Scraping, APIs
   * Visualization (incl. Interactive) with Python, Plotly, Streamlit
